@@ -30,6 +30,7 @@ KMD College (December 2022 – April 2024)**
 
 ## Projects
 ### Retail Industry 
+(/assets/img/Retail_Dashboard.png)
   **1) Business Objectives & Problem Identification:**
   
   - Defined the primary business objective to increase sales revenue. 
