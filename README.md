@@ -9,7 +9,7 @@ B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
 **Instructor and Marketing Associate -
 KMD College (December 2022 – April 2024)**
 
-  #### Teaching and Academic Support:
+  **Teaching and Academic Support:**
   
   - Delivered engaging lectures to first-year students on Office Solutions Development.
   - Assistent lecturer for second-year students in Principles of Business Operations.
@@ -18,7 +18,7 @@ KMD College (December 2022 – April 2024)**
   - Facilitated interactive sessions and discussions to foster critical thinking and active participation among students.
   - Maintained consistent communication with students, offering guidance, support, and constructive feedback on academic and career aspirations.
 
-  #### Marketing Associate:
+  **Marketing Associate:**
   
   - Conducted in-depth market research to identify consumer trends and preferences, shaping strategic marketing initiatives.
   - Analyzed customer demand data to design effective promotional campaigns.
@@ -30,7 +30,7 @@ KMD College (December 2022 – April 2024)**
 
 ## Projects
 ### Retail Industry 
-  #### 1) Business Objectives & Problem Identification:
+  **1) Business Objectives & Problem Identification:**
   
   - Defined the primary business objective to increase sales revenue. 
   - Identified and analyzed key challenges, including:
@@ -38,7 +38,7 @@ KMD College (December 2022 – April 2024)**
     - Potential issues in distribution channels. 
     - Low levels of customer engagement and satisfaction. 
    
-  #### 2) Data Accessing, Cleaning & Transformation:
+  **2) Data Accessing, Cleaning & Transformation:**
   
   - Assessed and understood source data from various business functions and departments. 
   - Leveraged a Data Inventory Register for structured data management. 
@@ -47,13 +47,13 @@ KMD College (December 2022 – April 2024)**
   - Applied descriptive statistics for initial data cleaning and exploration. 
   - Performed systematic data transformation using advanced Microsoft Excel functions. 
    
-  #### 3)Data Analyzing & Visualization:
+  **3)Data Analyzing & Visualization:**
   
   - Conducted detailed sales performance analysis to identify trends and anomalies.
   - Designed and developed a comprehensive sales performance dashboard for decision-making. 
   - Incorporated dynamic charts and KPIs for visualization. 
    
-  #### 4)Reporting: 
+  **4)Reporting:**
   - Documented key findings from data analysis, highlighting critical insights and opportunities. 
   - Provided data-driven recommendations to address identified business challenges. 
   - Developed an actionable next-step plan.
