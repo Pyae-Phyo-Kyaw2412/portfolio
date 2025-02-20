@@ -10,6 +10,7 @@ B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
 KMD College (December 2022 – April 2024)**
 
   #### Teaching and Academic Support:
+  
   - Delivered engaging lectures to first-year students on Office Solutions Development.
   - Assistent lecturer for second-year students in Principles of Business Operations.
   - Provided personalized tutoring to final-year students on Human-Computer Interface.
@@ -18,6 +19,7 @@ KMD College (December 2022 – April 2024)**
   - Maintained consistent communication with students, offering guidance, support, and constructive feedback on academic and career aspirations.
 
   #### Marketing Associate:
+  
   - Conducted in-depth market research to identify consumer trends and preferences, shaping strategic marketing initiatives.
   - Analyzed customer demand data to design effective promotional campaigns.
   - Organized and managed seasonal events and hosted seminars on various topics for students and parents.
@@ -29,6 +31,7 @@ KMD College (December 2022 – April 2024)**
 ## Projects
 ### Retail Industry 
   #### 1) Business Objectives & Problem Identification:
+  
   - Defined the primary business objective to increase sales revenue. 
   - Identified and analyzed key challenges, including:
     - Underperforming product categories and individual products. 
@@ -36,6 +39,7 @@ KMD College (December 2022 – April 2024)**
     - Low levels of customer engagement and satisfaction. 
    
   #### 2) Data Accessing, Cleaning & Transformation:
+  
   - Assessed and understood source data from various business functions and departments. 
   - Leveraged a Data Inventory Register for structured data management. 
   - Collaborated with stakeholders for data communication and requisition. 
@@ -44,6 +48,7 @@ KMD College (December 2022 – April 2024)**
   - Performed systematic data transformation using advanced Microsoft Excel functions. 
    
   #### 3)Data Analyzing & Visualization:
+  
   - Conducted detailed sales performance analysis to identify trends and anomalies.
   - Designed and developed a comprehensive sales performance dashboard for decision-making. 
   - Incorporated dynamic charts and KPIs for visualization. 
