@@ -34,11 +34,11 @@ KMD College (December 2022 – April 2024)**
 ![retail_dashboard](/assets/img/Retail_Dashboard.png)
 
 **Key Findings**
-1)	Top-Performing Products: Wi-Fi Router, Laptop, Security Camera and Treadmill.
-2)	Underperforming Products: Groceries Package A & B, Keyboard, Iron and Electric Kettle.
-3)	Regional Performance Disparities: Yangon (YGN) Sales Stronger, Mandalay (MDY) Lagging indicating potential distribution or demand issues in the Mandalay region.
-4)	End-of-Year Slump: Surprisingly, November and December show relatively lower sales than expected for end-of-year periods, which typically benefit from holiday shopping and promotional activities.
-5)	Top Performing Age Groups: 35-54 Age Group.
+1.	Top-Performing Products: Wi-Fi Router, Laptop, Security Camera and Treadmill.
+2.	Underperforming Products: Groceries Package A & B, Keyboard, Iron and Electric Kettle.
+3.	Regional Performance Disparities: Yangon (YGN) Sales Stronger, Mandalay (MDY) Lagging indicating potential distribution or demand issues in the Mandalay region.
+4.	End-of-Year Slump: Surprisingly, November and December show relatively lower sales than expected for end-of-year periods, which typically benefit from holiday shopping and promotional activities.
+5.	Top Performing Age Groups: 35-54 Age Group.
 	
 	
 **Recommendations**
