@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Excel (VBA), Lookerstudio, Power BI
+#### Technical Skills: Python, SQL, Excel (VBA), Lookerstudio, Power BI, UI/UX, Figma
 
 ## Education		        		
 B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
@@ -33,30 +33,44 @@ KMD College (December 2022 – April 2024)**
 
 ![retail_dashboard](/assets/img/Retail_Dashboard.png)
 
-  **1) Business Objectives & Problem Identification:**
-  
-  - Defined the primary business objective to increase sales revenue. 
-  - Identified and analyzed key challenges, including:
-    - Underperforming product categories and individual products. 
-    - Potential issues in distribution channels. 
-    - Low levels of customer engagement and satisfaction. 
-   
-  **2) Data Accessing, Cleaning & Transformation:**
-  
-  - Assessed and understood source data from various business functions and departments. 
-  - Leveraged a Data Inventory Register for structured data management. 
-  - Collaborated with stakeholders for data communication and requisition. 
-  - Accessed and imported data from multiple systems and formats. 
-  - Applied descriptive statistics for initial data cleaning and exploration. 
-  - Performed systematic data transformation using advanced Microsoft Excel functions. 
-   
-  **3)Data Analyzing & Visualization:**
-  
-  - Conducted detailed sales performance analysis to identify trends and anomalies.
-  - Designed and developed a comprehensive sales performance dashboard for decision-making. 
-  - Incorporated dynamic charts and KPIs for visualization. 
-   
-  **4)Reporting:**
-  - Documented key findings from data analysis, highlighting critical insights and opportunities. 
-  - Provided data-driven recommendations to address identified business challenges. 
-  - Developed an actionable next-step plan.
+**Key Findings**
+1	Top-Performing Products: Wi-Fi Router, Laptop, Security Camera and Treadmill.
+2	Underperforming Products: Groceries Package A & B, Keyboard, Iron and Electric Kettle.
+3	Regional Performance Disparities: Yangon (YGN) Sales Stronger, Mandalay (MDY) Lagging indicating potential distribution or demand issues in the Mandalay region.
+4	End-of-Year Slump: Surprisingly, November and December show relatively lower sales than expected for end-of-year periods, which typically benefit from holiday shopping and promotional activities.
+5	Top Performing Age Groups: 35-54 Age Group.
+	
+	
+**Recommendations**
+1	Leverage Top-Performing Products: Capitalize on this by ensuring continuous supply and competitive pricing. Expand upsell and cross-sell opportunities with related accessories (e.g., laptop bags, routers, network extenders).
+2	Address Underperforming Product Categories: Consider bundling these with more popular products to increase sales. Assess customer feedback to determine why these products are underperforming (e.g., lack of awareness, pricing issues, or competition).
+3	Enhance Distribution and Engagement in Mandalay: Investigate whether supply chain problems, fewer promotions, or lower customer engagement are contributing to this gap. Consider region-specific marketing campaigns or adjusting the product mix to better suit Mandalay’s market.
+4	Address End-of-Year Sales Decline: Review the effectiveness of year-end marketing campaigns, and if necessary, introduce flash sales or last-minute promotions. Assess if there were supply chain issues or market competition affecting November and December sales.
+5	Focus on Key Age Groups (35-54): Consider focusing on premium products, as this demographic may have higher disposable  income.
+
+### Bank Customer Analysis
+
+![bank_dashboard](/assets/img/Bank.png)
+
+**Key Findings**
+	
+1)	Top Segments by Balance: Middle - High (39%), Senior - High (34%), Young - High (25%)
+2)	Small Segments by Balance: Other 2%
+3)	Concentration of Wealth: Wealth is highly concentrated in the top segments, which make up about
+	98% of the total balance in the bank, while representing 87% of the customer base.
+	
+	
+**Recommendations**
+	
+1)	Focus on Top Segments: The bank should focus on retaining these customers by offering premium
+	services, personalized financial advice, and investment opportunities to keep them engaged and
+	satisfied.
+2)	Engage Low-Balance Segments: Offering targeted marketing campaigns and digital tools to help them
+	manage their finances could increase engagement and potentially grow their balances over time.
+3)	Targeted Marketing by Age Group: Tailor marketing strategies based on age group:
+	For young customers, focus on growth products like investment accounts and loans for education or
+	housing.
+	For middle-aged customers, offer long-term investment products, mortgage loans, and retirement
+	planning services.
+	For senior customers, emphasize wealth preservation and retirement income products like fixed
+	deposits or low-risk investments.
