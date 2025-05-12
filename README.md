@@ -76,7 +76,7 @@ KMD College (December 2022 – April 2024)**
 	deposits or low-risk investments.
 
 
-### P3_E-commerce Sales Analysis
+### E-commerce Sales Analysis
 
 ![ecom_dashboard](/assets/img/Ecom.png)
 
