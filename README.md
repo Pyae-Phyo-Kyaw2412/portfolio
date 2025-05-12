@@ -104,7 +104,7 @@ KMD College (December 2022 – April 2024)**
    - If these products consistently underperform, consider phasing them out or repositioning them in a new category.
    - Use aggressive discounting to clear out existing stock.
 4.	Leverage Best-Selling Products for Cross-Selling:
-    Top-performing products like Headphones, Biographies, and Shampoo should be used as anchors for cross-selling other complementary products.
+   - Top-performing products like Headphones, Biographies, and Shampoo should be used as anchors for cross-selling other complementary products.
 5.	Focus on High-Performing Categories:
    - Introduce more products in the electronics and beauty categories to capture a larger market share.
    - Provide category-based promotions (e.g., "10% off all electronics" or "Free shipping for beauty products").
