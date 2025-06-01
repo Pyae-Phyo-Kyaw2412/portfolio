@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Excel (VBA), Lookerstudio, Power BI, UI/UX, Figma
 
 ## Education	
- * M.Sc. in Business Analysis and Digital Transformation (Ongoing) | Asian Institute of Technology
- * B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
+M.Sc. in Business Analysis and Digital Transformation (Ongoing) | Asian Institute of Technology  
+B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
 
 ## Work Experience
 **Instructor and Marketing Associate -
@@ -26,7 +26,14 @@ KMD College (December 2022 – April 2024)**
   - Created compelling content for marketing materials, including social media posts, Facebook campaigns, and promotional copy.
   - Utilized photo and video editing software to produce visually appealing marketing assets.
   - Managed the company’s Facebook page, handling inquiries and analyzing performance metrics to optimize engagement and refine marketing strategies.
-  
+
+## Freelance Experience
+
+- **Freelance Content Writer**  
+  Created engaging and SEO-friendly articles, blog posts, and marketing content for various clients.
+
+- **Sales Analyst**  
+  Analyzed sales data to identify trends, optimize sales strategies, and support business growth.
 
 ## Projects
 ### Retail Products Analysis
