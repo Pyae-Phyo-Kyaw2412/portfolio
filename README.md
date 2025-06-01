@@ -3,12 +3,15 @@
 #### Technical Skills:  Excel (VBA), Lookerstudio, Power BI, Python, SQL, Figma, UI/UX
 
 ## Education	
-**M.Sc. in Business Analysis and Digital Transformation** (Ongoing)  | Asian Institute of Technology  
-**B.Sc., (Hons) Computing**  | University of Greenwich (Feb 2023)
+**M.Sc. in Business Analysis and Digital Transformation**  
+| Asian Institute of Technology (Ongoing)  
+**B.Sc., (Hons) Computing**  
+| University of Greenwich (Feb 2023)
 
 ## Work Experience
 **Instructor and Marketing Associate -
-KMD College (December 2022 – April 2024)**
+KMD College  
+(December 2022 – April 2024)**
 
   **Teaching and Academic Support:**
   
