@@ -2,7 +2,8 @@
 
 #### Technical Skills: Python, SQL, Excel (VBA), Lookerstudio, Power BI, UI/UX, Figma
 
-## Education		        		
+## Education	
+M.Sc. in Business Analysis and Digital Transformation (Ongoing) | Asian Institute of Technology 
 B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
 
 ## Work Experience
@@ -12,9 +13,8 @@ KMD College (December 2022 – April 2024)**
   **Teaching and Academic Support:**
   
   - Delivered engaging lectures to first-year students on Office Solutions Development.
-  - Assistent lecturer for second-year students in Principles of Business Operations.
-  - Provided personalized tutoring to final-year students on Human-Computer Interface.
-  - Guidance first-year students on Data Base Management Systems.
+  - Assistant lecturer for second-year students in Principles of Business Operations.
+  - Guidance for first-year students on Database Management Systems.
   - Facilitated interactive sessions and discussions to foster critical thinking and active participation among students.
   - Maintained consistent communication with students, offering guidance, support, and constructive feedback on academic and career aspirations.
 
@@ -34,10 +34,10 @@ KMD College (December 2022 – April 2024)**
 ![retail_dashboard](/assets/img/Retail_Dashboard.png)
 
 **Key Findings**
-1.	Top-Performing Products: Wi-Fi Router, Laptop, Security Camera and Treadmill.
-2.	Underperforming Products: Groceries Package A & B, Keyboard, Iron and Electric Kettle.
-3.	Regional Performance Disparities: Yangon (YGN) Sales Stronger, Mandalay (MDY) Lagging indicating potential distribution or demand issues in the Mandalay region.
-4.	End-of-Year Slump: Surprisingly, November and December show relatively lower sales than expected for end-of-year periods, which typically benefit from holiday shopping and promotional activities.
+1.	Top-Performing Products: Wi-Fi Router, Laptop, Security Camera, and Treadmill.
+2.	Underperforming Products: Groceries Package A & B, Keyboard, Iron, and Electric Kettle.
+3.	Regional Performance Disparities: Yangon (YGN) Sales Stronger, Mandalay (MDY) Lagging, indicating potential distribution or demand issues in the Mandalay region.
+4.	End-of-Year Slump: Surprisingly, November and December show lower sales than expected for end-of-year periods, which typically benefit from holiday shopping and promotional activities.
 5.	Top Performing Age Groups: 35-54 Age Group.
 	
 	
