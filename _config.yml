@@ -2,5 +2,6 @@ title: Pyae Phyo Kyaw
 logo: /assets/img/My Photo.png
 #description: text below image
 theme: jekyll-theme-minimal
+show_downloads: true
 github:
   is_project_page: false
