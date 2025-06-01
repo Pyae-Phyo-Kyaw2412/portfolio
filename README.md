@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Excel (VBA), Lookerstudio, Power BI, UI/UX, Figma
 
 ## Education	
- M.Sc. in Business Analysis and Digital Transformation (Ongoing) | Asian Institute of Technology
- B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
+ * M.Sc. in Business Analysis and Digital Transformation (Ongoing) | Asian Institute of Technology
+ * B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
 
 ## Work Experience
 **Instructor and Marketing Associate -
@@ -109,5 +109,3 @@ KMD College (December 2022 – April 2024)**
    - Introduce more products in the electronics and beauty categories to capture a larger market share.
    - Provide category-based promotions (e.g., "10% off all electronics" or "Free shipping for beauty products").
    - Build customer loyalty programs around these categories to encourage repeat purchases.
-
-[📄 Download My CV (PDF)](https://pyae-phyo-kyaw2412.github.io/portfolio/assets/resume.pdf)
