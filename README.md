@@ -1,10 +1,10 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, Excel (VBA), Lookerstudio, Power BI, UI/UX, Figma
+#### Technical Skills:  Excel (VBA), Lookerstudio, Power BI, Python, SQL, Figma, UI/UX
 
 ## Education	
-M.Sc. in Business Analysis and Digital Transformation (Ongoing) | Asian Institute of Technology  
-B.Sc.,(hons) Conputing | Universitly of Greenwich (_Feb 2023_)
+**M.Sc. in Business Analysis and Digital Transformation** (Ongoing) | Asian Institute of Technology  
+**B.Sc.,(hons) Conputing** | Universitly of Greenwich (_Feb 2023_)
 
 ## Work Experience
 **Instructor and Marketing Associate -
