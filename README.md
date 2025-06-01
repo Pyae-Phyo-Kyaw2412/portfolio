@@ -110,3 +110,4 @@ KMD College (December 2022 – April 2024)**
    - Provide category-based promotions (e.g., "10% off all electronics" or "Free shipping for beauty products").
    - Build customer loyalty programs around these categories to encourage repeat purchases.
 
+[📄 Download My CV (PDF)](https://pyae-phyo-kyaw2412.github.io/portfolio/assets/resume.pdf)
