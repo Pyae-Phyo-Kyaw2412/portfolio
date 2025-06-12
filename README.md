@@ -1,8 +1,6 @@
 ## Professional Summary
 Computer Science graduate with strong analytical skills and hands-on experience in developing data-driven solutions. Experienced in experimenting with ad performance, campaign optimization, and user behavior analytics. Proficient in Python, SQL, Excel, and data visualization tools like Power BI and Lookerstudio. Passionate about search and display marketing technologies, with a keen interest in testing strategies and building models to support performance insights.
 
-### Email : ppk.edu2000@gmail.com  /  Phonenumber : +66 633453371
-
 ## Education	
 **M.Sc. in Business Analysis and Digital Transformation**  
 | Asian Institute of Technology (Ongoing)  
