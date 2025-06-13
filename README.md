@@ -1,45 +1,4 @@
-## Professional Summary
-Computer Science graduate with strong analytical skills and hands-on experience in developing data-driven solutions. Experienced in experimenting with ad performance, campaign optimization, and user behavior analytics. Proficient in Python, SQL, Excel, and data visualization tools like Power BI and Lookerstudio. Passionate about search and display marketing technologies, with a keen interest in testing strategies and building models to support performance insights.
-
-## Education	
-**M.Sc. in Business Analysis and Digital Transformation**  
-| Asian Institute of Technology (Ongoing)  
-**B.Sc., (Hons) Computing**  
-| University of Greenwich (Feb 2023)
-
-#### Technical Skills:  Excel (VBA), Lookerstudio, Power BI, Python, SQL, Figma, UI/UX
-
-## Work Experience
-**Instructor and Marketing Associate -
-KMD College  
-(December 2022 – April 2024)**
-
-  **Teaching and Academic Support:**
-  
-  - Delivered engaging lectures to first-year students on Office Solutions Development.
-  - Assistant lecturer for second-year students in Principles of Business Operations.
-  - Guidance for first-year students on Database Management Systems.
-  - Facilitated interactive sessions and discussions to foster critical thinking and active participation among students.
-  - Maintained consistent communication with students, offering guidance, support, and constructive feedback on academic and career aspirations.
-
-  **Marketing Associate:**
-  
-  - Conducted in-depth market research to identify consumer trends and preferences, shaping strategic marketing initiatives.
-  - Analyzed customer demand data to design effective promotional campaigns.
-  - Organized and managed seasonal events and hosted seminars on various topics for students and parents.
-  - Created compelling content for marketing materials, including social media posts, Facebook campaigns, and promotional copy.
-  - Utilized photo and video editing software to produce visually appealing marketing assets.
-  - Managed the company’s Facebook page, handling inquiries and analyzing performance metrics to optimize engagement and refine marketing strategies.
-
-## Freelance Experience
-
-- **Freelance Content Writer**  
-  Created engaging and SEO-friendly articles, blog posts, and marketing content for various clients.
-
-- **Sales Analyst**  
-  Analyzed sales data to identify trends, optimize sales strategies, and support business growth.
-
-## Projects
+# Projects
 ### Retail Products Analysis
 
 ![retail_dashboard](/assets/img/Retail_Dashboard.png)
@@ -120,3 +79,44 @@ KMD College
    - Introduce more products in the electronics and beauty categories to capture a larger market share.
    - Provide category-based promotions (e.g., "10% off all electronics" or "Free shipping for beauty products").
    - Build customer loyalty programs around these categories to encourage repeat purchases.
+
+## Professional Summary
+Computer Science graduate and Master's student in Business Analytics with strong analytical skills and hands-on experience in developing data-driven solutions. Experienced in experimenting with ad performance, campaign optimization, and user behavior analytics. Proficient in Python, SQL, Excel, and data visualization tools like Power BI and Lookerstudio. Passionate about search and display marketing technologies, with a keen interest in testing strategies and building models to support performance insights.
+
+## Education	
+**M.Sc. in Business Analysis and Digital Transformation**  
+| Asian Institute of Technology (Ongoing)  
+**B.Sc., (Hons) Computing**  
+| University of Greenwich (Feb 2023)
+
+#### Technical Skills:  Excel (VBA), Lookerstudio, Power BI, Python, SQL, Figma, UI/UX
+
+## Work Experience
+**Instructor and Marketing Associate -
+KMD College  
+(December 2022 – April 2024)**
+
+  **Teaching and Academic Support:**
+  
+  - Delivered engaging lectures to first-year students on Office Solutions Development.
+  - Assistant lecturer for second-year students in Principles of Business Operations.
+  - Guidance for first-year students on Database Management Systems.
+  - Facilitated interactive sessions and discussions to foster critical thinking and active participation among students.
+  - Maintained consistent communication with students, offering guidance, support, and constructive feedback on academic and career aspirations.
+
+  **Marketing Associate:**
+  
+  - Conducted in-depth market research to identify consumer trends and preferences, shaping strategic marketing initiatives.
+  - Analyzed customer demand data to design effective promotional campaigns.
+  - Organized and managed seasonal events and hosted seminars on various topics for students and parents.
+  - Created compelling content for marketing materials, including social media posts, Facebook campaigns, and promotional copy.
+  - Utilized photo and video editing software to produce visually appealing marketing assets.
+  - Managed the company’s Facebook page, handling inquiries and analyzing performance metrics to optimize engagement and refine marketing strategies.
+
+## Freelance Experience
+
+- **Freelance Content Writer**  
+  Created engaging and SEO-friendly articles, blog posts, and marketing content for various clients.
+
+- **Sales Analyst**  
+  Analyzed sales data to identify trends, optimize sales strategies, and support business growth.
